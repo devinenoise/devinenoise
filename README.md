@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Banner](https://github.com/devinenoise/devinenoise/blob/main/src/kyledevine.png)
+  ![Banner](https://github.com/devinenoise/devinenoise/blob/main/kyle%20devine.png)
 
 
 - 🔭 I’m currently working on an e-commerce site using React.
