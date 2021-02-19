@@ -1,5 +1,3 @@
-### Hi there 👋
-
   ![Banner](https://github.com/devinenoise/devinenoise/blob/main/kyle%20devine%20(1).png)
 
 
