@@ -20,12 +20,3 @@
 	<a href="https://www.linkedin.com/in/kyleadevine/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-
-
-
-<a href="https://github.com/devinenoise/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devinenoise&repo=github-readme-stats&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/devinenoise/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devinenoise&repo=convoychat" />
-</a>
