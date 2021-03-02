@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I compose music and have created music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=synthwave)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight)
 
 
 <p align="center" style="margin-top: 1rem;" >
