@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://www.linkedin.com/in/kyleadevine/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&compact=true&theme=tokyonight&hide=shell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 
 
