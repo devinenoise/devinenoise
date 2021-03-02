@@ -3,9 +3,9 @@
 ### Hi there 👋, I'm Kyle Devine. I'm a software engineer and musician. Welcome to my gh page! <br>
 
 - 🔭 I’m currently working on an e-commerce site using React.
-- 🌱 I’m currently learning as much as I can about Data Structures and Front-End Development.
+- 🌱 I’m currently learning as much as I can about Data Structures and Algorithms.
 - 🤔 I’m looking for help with my first role as a software engineer.
-- ⚡ Fun fact: In my previous career and I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
+- ⚡ Fun fact: In my previous career, I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px" >
 <a href="https://www.linkedin.com/in/kyleadevine/">
