@@ -13,7 +13,7 @@
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true)
 
 <a href=”https://github.com/devinenoise">
-<img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=toykonight&hide_langs_below=1" />
+<img align=”right” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=toykonight" />
 </a>
 
 <p align="center" style="margin-top: 1rem;" >
