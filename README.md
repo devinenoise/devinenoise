@@ -1,13 +1,13 @@
   ![Banner](https://github.com/devinenoise/devinenoise/blob/main/kyle%20devine%20(1).png)
 
+### Hi there 👋, I'm Kyle Devine. I'm a software engineer and musician. Welcome to my gh page! <br>
 
 - 🔭 I’m currently working on an e-commerce site using React.
 - 🌱 I’m currently learning as much as I can about Data Structures and playing guitar.
 - 👯 I’m looking to collaborate on full-stack projects.
 - 🤔 I’m looking for help with a new role as a software engineer.
-- 💬 Ask me about music production.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I compose music and have created music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.
+- ⚡ Fun fact: In my previous career and I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true)
