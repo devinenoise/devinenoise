@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with my first role as a software engineer.
 - ⚡ Fun fact: In my previous career and I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
-<div align="center" style="margin-top: 1rem; margin-bottom: 2rem" >
+<div align="center" style="margin-top: 20px; margin-bottom: 20px" >
 <a href="https://www.linkedin.com/in/kyleadevine/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
 </a>
