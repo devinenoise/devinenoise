@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I compose music and have created music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.
 
 
-<p align="center" style="margin-top: 1rem;" >
+[align center]
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true)
-</p>
+[continue]
 
 <p align="center" style="margin-top: 1rem;" >
 	<a href="https://twitter.com/kylewhocodes"><img src="https://img.shields.io/twitter/follow/kylewhocodes?label=Twitter&style=social" alt="Twitter"></a>
