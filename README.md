@@ -9,7 +9,7 @@
 
 
 <a href="https://www.linkedin.com/in/kyleadevine/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
 </a>
 <a href="https://www.linkedin.com/in/kyleadevine/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&layout=compact&theme=tokyonight" />
