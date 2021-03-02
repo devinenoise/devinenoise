@@ -3,10 +3,8 @@
 ### Hi there 👋, I'm Kyle Devine. I'm a software engineer and musician. Welcome to my gh page! <br>
 
 - 🔭 I’m currently working on an e-commerce site using React.
-- 🌱 I’m currently learning as much as I can about Data Structures and playing guitar.
-- 👯 I’m looking to collaborate on full-stack projects.
-- 🤔 I’m looking for help with a new role as a software engineer.
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning as much as I can about Data Structures and Front-End Development.
+- 🤔 I’m looking for help with my first role as a software engineer.
 - ⚡ Fun fact: In my previous career and I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 
@@ -20,3 +18,11 @@
 	<a href="https://www.linkedin.com/in/kyleadevine/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
+
+
+<a href="https://www.linkedin.com/in/kyleadevine/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://www.linkedin.com/in/kyleadevine/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=tokyonight&layout=compact&hide=shell" />
+</a>
