@@ -8,9 +8,12 @@
 - ⚡ Fun fact: In my previous career and I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=tokyonight&layout=compact&hide=shell)
+<a href="https://www.linkedin.com/in/kyleadevine/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://www.linkedin.com/in/kyleadevine/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=tokyonight&hide=shell" />
+</a>
 
 
 <p align="center" style="margin-top: 1rem;" >
@@ -20,9 +23,3 @@
 
 
 
-<a href="https://www.linkedin.com/in/kyleadevine/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://www.linkedin.com/in/kyleadevine/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinenoise&theme=tokyonight&layout=compact&hide=shell" />
-</a>
