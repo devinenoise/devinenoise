@@ -2,9 +2,9 @@
 
 ### Hi there 👋, I'm Kyle Devine. I'm a software engineer and musician. Welcome to my gh page! <br>
 
-- 🔭 I’m currently working on an e-commerce site using React with Gatsby.
-- 🌱 I’m currently learning as much as I can about handy libraries to work with React.
-- ⚡ Fun fact: In my previous career, I composed music for Google, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
+- 🔭 I’m currently working on as a Front End Developer with Shopify and React.
+- 🌱 I’m currently learning as much as I can about handy libraries to work with React and the Liquid language.
+- ⚡ Fun fact: In my previous career, I composed music for Google, Apple, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px" >
 <a href="https://www.linkedin.com/in/kyleadevine/">
