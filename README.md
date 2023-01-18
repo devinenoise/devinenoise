@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Kyle Devine. I'm a software engineer and musician. Welcome to my gh page! <br>
 
-- 🔭 I’m currently working as a Front End Shopify Developer at a digital agency.
+- 🔭 I’m currently working as a Shopify Engineer at Barstool Sports.
 - ⚡ Fun fact: In my previous career, I composed music for Google, Apple, McDonalds, Vice, Dutch Bros, Nissan, Adidas, and many other companies.  You can hear my music at http://www.kyledevine.com
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px" >
