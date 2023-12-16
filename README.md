@@ -11,10 +11,6 @@
 <img src="https://github-readme-stats-devinenoise.vercel.app/api/top-langs/?username=devinenoise&amp;layout=compact&amp;theme=tokyonight&amp;hide=shell" style="max-width:100%; margin-bottom: 20px;"/>
 </p>
 
-<br>
 <p align="center" style="margin-top: 2rem; margin-bottom: 1rem;" >
-	<a href="https://www.linkedin.com/in/kyleadevine/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/kyleadevine/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-
-
