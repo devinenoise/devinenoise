@@ -8,7 +8,7 @@
 <p align="center" style="margin-top: 20px; margin-bottom: 20px" >
 <a href="https://www.linkedin.com/in/kyleadevine/">
 <!--   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true&hide=stars" /> -->
-	<img width="450px" src="https://github-readme-stats-three-eta-81.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+	<img width="450px" src="https://github-readme-stats-devinenoise.vercel.app/api?username=devinenoise&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
 	
 </a>
 <a href="https://www.linkedin.com/in/kyleadevine/">
