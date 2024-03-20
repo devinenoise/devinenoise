@@ -16,5 +16,3 @@
 <a href="https://open.spotify.com/artist/1K37NCzCBVe9RqNDMUQ069?si=e3XVsIhfRU2Jr06aYUlTgQ"><img src="https://img.shields.io/badge/Spotify--_.svg?style=social&logo=spotify" alt="Spotify"></a>
 <a href="https://www.youtube.com/channel/UCT0_ep1MLovCVhdNcCVIKaA"><img src="https://img.shields.io/badge/Youtube--_.svg?style=social&logo=youtube" alt="Youtube"></a>
 </p>
-
-<!-- [![Gist Card](https://github-readme-stats-devinenoise.vercel.app/api/gist?id=72b89881c126bd89439a239ade5d2cd9)](https://gist.github.com/devinenoise/72b89881c126bd89439a239ade5d2cd9) -->
